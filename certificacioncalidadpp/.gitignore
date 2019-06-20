@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+
+# Intellij
+.idea/
+.gradle/
+*.iml
+*.iws
+*.editorconfig
+
+# Gradle
+log/
+gradle/
+target/
+hooks/pre-push
+
+# Java
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+
+# Log file
+*.log
+/bin/
